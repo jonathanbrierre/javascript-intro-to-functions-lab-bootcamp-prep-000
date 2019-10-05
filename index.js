@@ -17,3 +17,8 @@ function sayHiToGrandma(string) {
   var smallLetters = string.toLowerCase()
   if (`${smallLetters}`) { return "I can't hear you!"}
 }
+
+function sayHiToGrandma(string) { 
+  var bigLetters = string.toUpperCase()
+  if (`${bigLetters}`) { return "YES INDEED!"}
+}
