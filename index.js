@@ -19,6 +19,5 @@ function sayHiToGrandma(string) {
    
 }
 function sayHiToGrandma(string) {
-  var upperCased = string.toUpperCase();
-  if (console.log (upperCased)) { return "YES INDEED!"}
+
 }
